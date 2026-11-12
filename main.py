@@ -3,7 +3,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
 app = FastAPI(
-    title="Banking Transaction API",
+    title="Banking Transaction API managemnet",
     version="1.0.0"
 )
 
